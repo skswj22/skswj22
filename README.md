@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 안녕하신가..
+# 보수중..
 
 <!--
 **skswj22/skswj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
